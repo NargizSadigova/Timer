@@ -5,7 +5,6 @@ import Timer from './Component/Timer';
 import Counter from './Component/Counter';
 
 function App() {
-
   return (
     <div className="App">
       <div className='timeline'>
